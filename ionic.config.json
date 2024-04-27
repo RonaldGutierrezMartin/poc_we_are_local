@@ -1,0 +1,7 @@
+{
+  "name": "poc_we_are_local",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
